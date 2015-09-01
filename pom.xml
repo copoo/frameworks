@@ -128,8 +128,8 @@ org.eclipse.jdt.core.compiler.compliance=1.6
    </pluginRepositories>
    <distributionManagement>
       <repository>
-         <id>releases</id>
-         <url>${releases.repo}</url>
+         <id>thirdparty-nexus</id>
+         <url>http://nexus.envisioncn.com/content/repositories/Thirdparty/</url>
       </repository>
      <snapshotRepository>
          <id>snapshots</id>
