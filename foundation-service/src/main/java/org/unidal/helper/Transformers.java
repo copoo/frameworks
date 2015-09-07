@@ -13,10 +13,13 @@ public class Transformers {
 	}
 
 	public static enum ListTransformer {
+		
 		INSTANCE;
 
 		public <S, T> List<T> transform(List<S> fromList, IBuilder<S, T> builder) {
+			
 			int len = fromList.size();
+			
 			List<T> toList = new ArrayList<T>(len);
 
 			transform(fromList, toList, builder);
