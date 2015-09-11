@@ -126,17 +126,17 @@ org.eclipse.jdt.core.compiler.compliance=1.6
          </releases>
       </pluginRepository>
    </pluginRepositories>
-   <distributionManagement>
-      <repository>
-         <id>thirdparty-nexus</id>
-         <url>http://nexus.envisioncn.com/content/repositories/Thirdparty/</url>
-      </repository>
-     <snapshotRepository>
-         <id>snapshots</id>
-         <url>${snapshots.repo}</url>
-      </snapshotRepository>
-   </distributionManagement>
-   <properties>
+    <distributionManagement>
+        <repository>
+            <id>envision-nexus</id>
+            <url>http://nexus.envisioncn.com/content/repositories/envision</url>
+        </repository>
+        <snapshotRepository>
+            <id>snapshot-nexus</id>
+            <url>http://nexus.envisioncn.com/content/repositories/snapshots</url>
+        </snapshotRepository>
+    </distributionManagement>   
+<properties>
       <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
    </properties>
 </project>

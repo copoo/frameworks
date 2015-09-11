@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/foundation-service/src/java/foundation-service.iml" filepath="$PROJECT_DIR$/foundation-service/src/java/foundation-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dal-jdbc/target/generated-sources/generated-sources.iml" filepath="$PROJECT_DIR$/dal-jdbc/target/generated-sources/generated-sources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eunit-testfwk/target/generated-sources/generated-sources1.iml" filepath="$PROJECT_DIR$/eunit-testfwk/target/generated-sources/generated-sources1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-framework/target/generated-sources/generated-sources2.iml" filepath="$PROJECT_DIR$/web-framework/target/generated-sources/generated-sources2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-framework/src/main/main.iml" filepath="$PROJECT_DIR$/web-framework/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-framework/src/main/main1.iml" filepath="$PROJECT_DIR$/test-framework/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eunit-testfwk/src/main/main2.iml" filepath="$PROJECT_DIR$/eunit-testfwk/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dal-jdbc/src/main/main3.iml" filepath="$PROJECT_DIR$/dal-jdbc/src/main/main3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/type-converter/src/main/main4.iml" filepath="$PROJECT_DIR$/type-converter/src/main/main4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foundation-service/src/main/main5.iml" filepath="$PROJECT_DIR$/foundation-service/src/main/main5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-support/src/main/main6.iml" filepath="$PROJECT_DIR$/spring-support/src/main/main6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-fragment/src/main/main7.iml" filepath="$PROJECT_DIR$/java-fragment/src/main/main7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dal-jdbc/src/test/test.iml" filepath="$PROJECT_DIR$/dal-jdbc/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-fragment/src/test/test1.iml" filepath="$PROJECT_DIR$/java-fragment/src/test/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eunit-testfwk/src/test/test2.iml" filepath="$PROJECT_DIR$/eunit-testfwk/src/test/test2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-framework/src/test/test3.iml" filepath="$PROJECT_DIR$/test-framework/src/test/test3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-support/src/test/test4.iml" filepath="$PROJECT_DIR$/spring-support/src/test/test4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/type-converter/src/test/test5.iml" filepath="$PROJECT_DIR$/type-converter/src/test/test5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-framework/src/test/test6.iml" filepath="$PROJECT_DIR$/web-framework/src/test/test6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foundation-service/src/test/test7.iml" filepath="$PROJECT_DIR$/foundation-service/src/test/test7.iml" />
+    </modules>
+  </component>
+</project>
